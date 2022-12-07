@@ -3,7 +3,6 @@
 [![Crates.io](https://img.shields.io/crates/v/gamels)](https://crates.io/crates/gamels) 
 [![Build](https://github.com/Ewpratten/gamels/actions/workflows/build.yml/badge.svg)](https://github.com/Ewpratten/gamels/actions/workflows/build.yml)
 [![Clippy](https://github.com/Ewpratten/gamels/actions/workflows/clippy.yml/badge.svg)](https://github.com/Ewpratten/gamels/actions/workflows/clippy.yml)
-[![Audit](https://github.com/Ewpratten/gamels/actions/workflows/audit.yml/badge.svg)](https://github.com/Ewpratten/gamels/actions/workflows/audit.yml)
 
 
 `gamels` will list all files in a directory in the style of `ls -la`, but will also show the name of any Steam game found in the listing. This utility was made to help me explore the filesystem of the Steam Deck. 
