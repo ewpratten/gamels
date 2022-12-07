@@ -4,7 +4,6 @@ version = "0.1.0"
 authors = ["Evan Pratten <ewpratten@gmail.com>"]
 edition = "2021"
 description = "List current directory, converting file names to steam game titles"
-documentation = "https://docs.rs/gamels"
 readme = "README.md"
 homepage = "https://github.com/ewpratten/gamels"
 repository = "https://github.com/ewpratten/gamels"
